@@ -14,29 +14,23 @@
 - ⚡ Fun fact: I love building things
 
 ---
-
+```
 ### 🛠️ Tech Stack
 
 - 💻 Java | Python | Bash
 - ☁️ AWS | Terraform
 - 🔧 Jenkins | Docker | Kubernetes
 - 🗄️ MySQL | MongoDB
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mfaridi95&show_icons=true)
-
----
-
+```
+<!--
 ### 🔗 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/mariam-faridi-33b44a47/
 - Portfolio: https://github.com/mfaridi95
 <!--
 **mfaridi95/mfaridi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
+```
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -48,3 +42,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
